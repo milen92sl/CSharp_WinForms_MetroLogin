@@ -1,2 +1,2 @@
-# CSharp_WinForms_MetroLogin
+# C# Windows Forms App - MetroLogin
  CSharp Windows Forms - MetroLogin app
