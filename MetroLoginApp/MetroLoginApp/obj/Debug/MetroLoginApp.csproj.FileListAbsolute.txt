@@ -1,0 +1,17 @@
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\MetroLoginApp.exe.config
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\MetroLoginApp.exe
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\MetroLoginApp.pdb
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\MetroFramework.Design.dll
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\MetroFramework.dll
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.Properties.Resources.resources
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.csproj.GenerateResource.cache
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.csproj.CoreCompileInputs.cache
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.csproj.CopyComplete
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.exe
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.pdb
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\Dapper.dll
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\bin\Debug\Dapper.xml
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.csproj.AssemblyReference.cache
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.frmLogin.resources
+C:\Repositories\MetroLoginApp\MetroLoginApp\MetroLoginApp\obj\Debug\MetroLoginApp.frmMain.resources
